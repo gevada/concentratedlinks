@@ -1,0 +1,27 @@
+
+body{
+    background-color:rgb(5, 6, 93);
+}
+h1{
+    color:white;
+    text-align:center;
+    font: size 50px;
+}
+p.p{
+    color: white;
+    text-align:right ;
+    font-size: 30px;
+}
+a.mainpge{
+    font-size: small;
+    text-align: end;
+}
+a.url{
+    color:rgb(125, 12, 95);
+    font-size: 20px;
+    font-weight: 200;
+}
+img{
+    max-width: 30%;
+    max-height: 30%;
+}
